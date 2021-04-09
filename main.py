@@ -7,7 +7,7 @@ from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher import FSMContext
 from selenium_work import check_new, get_screen
-from Check_new import get_new
+from check_new import get_new
 
 
 API_TOKEN = '1756814334:AAFzsJsWwEdrZ4oYYH0Y8hO8uwg6P69dx_8'
